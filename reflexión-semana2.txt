@@ -1,0 +1,8 @@
+Para un desarrollador es importante usar la terminal porque permite navegar, buscar y organizar 
+archivos dentro de un proyeto, organizar la información, archivos y ejecutar comandos, 
+además, una de las ventajas de dominar la terminal es la eficiencia y automatización, 
+a traves del uso de comandos como mkdir, cd, etc. se gestionan los proyectos de una forma
+más rapida, precisa y exacta, de esta manera el desarrollodar puede controlar la ejecución
+de las tareas incrementado la productividad dado que el uso de la terminal permite al 
+usuario acceder a determinadad caracteristicas de las aplicaciones que no estan disponibles 
+tambien permite aprovechar al maximo herramientas como Python.
